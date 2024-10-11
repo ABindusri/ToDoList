@@ -1,5 +1,7 @@
 import './App.css'
+import FooterComp from './Components/FooterComp'
 import HeaderComp from './Components/HeaderComp'
+import PageComp from './Components/PageComp'
 
 function App() {
 
@@ -7,7 +9,8 @@ function App() {
     <>
       <div>
        <HeaderComp/>
-
+<PageComp/>
+<FooterComp/>
       </div>
       <p className="read-the-docs">
        
