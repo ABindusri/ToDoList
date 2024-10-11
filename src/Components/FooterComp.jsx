@@ -8,7 +8,7 @@ const FooterComp = () => {
   return (
     <div>
        
-        <h4 className=' text-purple-900  font-manjari text-center pt-5 bg-fuchsia-200   text-xl'>copyright © {year} Quick Todo | All rights reserved</h4>
+        <h4 className=' text-purple-900  font-manjari text-center pt-5 bg-fuchsia-200  mt-96  text-xl'>copyright © {year}  To Do List | All rights reserved</h4>
        
         </div>
   )
